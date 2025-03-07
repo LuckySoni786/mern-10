@@ -7,3 +7,4 @@ else{
     console.log("please set strong password");
     
 }
+console.log("send to the github");
