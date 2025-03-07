@@ -12,3 +12,6 @@ function add(a,b){
     
 }
 add(a,a);
+ 
+let cd = "change";
+console.log(cd);
